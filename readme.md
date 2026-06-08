@@ -179,18 +179,19 @@ Comparison between:
 
 ## 📂 Project Structure
 
+```text
 Advanced-Multivariate-HMM-Indian-Stock-Market/
 │
-├── thesis_code.py
-├── thesis_all_graphs.png
-├── fig7_aic_bic_selection.png
-├── fig8_student_t_vs_gaussian.png
-├── state_characteristics.csv
-├── transition_matrix.csv
-├── model_selection.csv
-├── requirements.txt
-└── README.md
-
+├── thesis_code.py                  # Main thesis implementation
+├── thesis_all_graphs.png           # Complete visualization suite
+├── fig7_aic_bic_selection.png      # AIC/BIC model selection analysis
+├── fig8_student_t_vs_gaussian.png  # Distribution comparison analysis
+├── state_characteristics.csv       # Hidden state statistics
+├── transition_matrix.csv           # State transition probabilities
+├── model_selection.csv             # AIC/BIC evaluation results
+├── requirements.txt                # Project dependencies
+└── README.md                       # Project documentation
+```
 ---
 
 ## 📌 Key Findings
